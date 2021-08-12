@@ -1,5 +1,7 @@
 # 自動點擊啵啵貓 `POPCAT-Auto-Click`
 
+![POPCAT Auto Click](POPCAT-Auto-Click.png)
+
 ## 使用說明
 * 瀏覽器開啟`https://popcat.click`
 * 按下`F12`, 選到`Console`
